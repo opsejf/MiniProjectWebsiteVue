@@ -1,0 +1,39 @@
+.navItem{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* position: relative; */
+    margin: 0 auto;
+    padding: 0;
+}
+
+.navItem ul{
+    margin: 0;
+}
+
+.navItem li{
+    /* margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1% */
+    margin: 1%;
+}
+
+#lastNav {
+    margin-right: 10%;
+}
+
+#firstNav {
+    margin-left: 3%;
+    padding-left: 0%;
+    margin-right: 0;
+    padding: 0%;
+}
+
+#logo {
+    margin: 0;
+    width: 10em;
+}

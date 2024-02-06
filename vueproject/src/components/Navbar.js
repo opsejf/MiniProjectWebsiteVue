@@ -1,20 +1,31 @@
 import React from 'react';
+import "../styles/navbar.css";
+import vue from "../Images/vuelogo.jpg";
 
-export default function(){
+export default function(props){
     return (
 
         <div>
+
+            
             <nav>
-                <ul>
+                <ul class = "navItem">
+                    <li id='firstNav'><img src={vue} id="logo"/></li>
                     <li>Home</li>
                     <li>What's On</li>
                     <li>Trailers</li>
                     <li>Coming Soon</li>
                     <li>Big Screen Events</li>
-                    <li>Gift Cards</li>
+                    <li id='lastNav'>Gift Cards</li>
+                    <li>Log In</li>
+                    <li>Join</li>
+                    <li><img src='accounticon.jfif'/></li>
+
                 </ul>
             </nav>
-            <h1>heading</h1>
+            
         </div>
     )
 }
+
+
