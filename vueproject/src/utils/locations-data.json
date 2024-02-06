@@ -1,0 +1,22 @@
+[
+    {
+        "location" : "Aberdeen",
+        "movies-available" : [{
+            "Migration" : {
+                "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+                "run-time": "1h 30 mins",
+                "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+                "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+                "rating": "U"
+            }
+        ,"ARGYLLE" : {
+            "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+            "run-time": "2hr 19mins",
+            "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+            "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+            "rating": "12A"
+        }
+        } 
+    ] 
+    }
+]
