@@ -3,35 +3,34 @@ import React, { useEffect, useState } from 'react';
 import QuickbookSmall from '../components/QuickbookSmall';
 import '../styles/quickbook.css';
 import LocationDropdown from '../components/LocationDropdown';
-import React from 'react'
 import Navbar from '../components/Navbar.js'
 
 function Homepage() {
 
-  let [width, setWidth] = React.useState();
-  let [newWidth, setNewWidth] = React.useState();
+  // let [width, setWidth] = React.useState();
+  // let [newWidth, setNewWidth] = React.useState();
 
-  window.addEventListener('resize', setNewWidth);
+  // window.addEventListener('resize', setNewWidth);
 
-  React.useEffect(()=>{
+  // React.useEffect(()=>{
 
-    setWidth(window.innerWidth)
+  //   setWidth(window.innerWidth)
 
-    if(width){
-      console.log(width);
-    }
-    else{
-      console.log("No width value!")
-    }
+  //   if(width){
+  //     console.log(width);
+  //   }
+  //   else{
+  //     console.log("No width value!")
+  //   }
     
-  }, [newWidth]);
+  // }, [newWidth]);
 
   return (
     <div>
       
       <QuickbookSmall/>
       {/* <p>{console.log(Object.keys(width))}</p> */}
-      {<p>{width}</p>}
+      {/* {<p>{width}</p>} */}
       
       {/* <div className='quickbookbar'><p>footer</p></div> */}
       {/* {console.log(width)} */}
