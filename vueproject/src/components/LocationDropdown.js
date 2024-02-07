@@ -9,21 +9,12 @@ function LocationDropdown() {
 
   const handleClick = () => {
     setShowComponent(true)
+
+  }
   
 
   return (
     <>
-    <section className='ld-container'>
-      <h3>SEE WHAT'S ON AT</h3>
-      <form className='ld-form'>
-        <select className='ld-dropdown' name='locations'>
-          <option>{locations.map(location => {
-            return location.location
-          })}</option>
-        </select>
-        <button id='gobtn'>GO</button>
-      </form>
-    </section>
        {!showComponent ?
           <section className='ld-container'>
           <h3>SEE WHAT'S ON AT</h3>
@@ -40,8 +31,6 @@ function LocationDropdown() {
     </>
 
   )
-}
-
 }
 
 export default LocationDropdown
