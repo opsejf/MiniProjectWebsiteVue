@@ -27,6 +27,7 @@ function Homepage() {
 
   return (
     <div>
+
       
       <QuickbookSmall/>
       {/* <p>{console.log(Object.keys(width))}</p> */}
@@ -35,7 +36,10 @@ function Homepage() {
       {/* <div className='quickbookbar'><p>footer</p></div> */}
       {/* {console.log(width)} */}
         <LocationDropdown/>
+
       <Navbar />
+          
+      <LocationDropdown/>
 
     </div>
   )
