@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react';
 
 import QuickbookSmall from '../components/QuickbookSmall';
 import '../styles/quickbook.css';
+import LocationDropdown from '../components/LocationDropdown';
+import React from 'react'
+import Navbar from '../components/Navbar.js'
 
 function Homepage() {
 
@@ -32,6 +35,9 @@ function Homepage() {
       
       {/* <div className='quickbookbar'><p>footer</p></div> */}
       {/* {console.log(width)} */}
+        <LocationDropdown/>
+      <Navbar />
+
     </div>
   )
 }

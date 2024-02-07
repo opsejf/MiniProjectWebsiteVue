@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+
+body {
+    background-color: black;
+}
+
+.ld-container {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 1.6em;
+    border-bottom: 3px solid #e57f00;
+}
+
+.locations-container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+} 
+
+.location-over-h1 {
+    font-weight: 300;
+    font-family: Roboto Condensed;
+    color: #E1821E;
+}
+
+.ld-container > h3 {
+    font-weight: 300;
+    font-family: Roboto Condensed;
+    margin-right: 1.5em;
+    font-size: 2em;
+    letter-spacing: 3px;
+}
+
+.ld-dropdown {
+    padding-right: 23em;
+    background-color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-bottom: 2%;
+}
+
+.ld-dropdown::placeholder {
+     font-weight: 400;
+    font-family: Roboto Condensed;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    color: #757371;
+    
+}
+
+#select-placeholder {
+    color: white;
+
+}
+
+#gobtn {
+    margin-left: 2.5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    background-color: black;
+    border-radius: 3px;
+    border: 2px solid rgb(78, 78, 78);
+    color: white;
+}
+
+.location-option {
+    font-family: Roboto Condensed;
+    display: inline-block;
+    color: white;
+    font-size: 1.5em;
+    font-weight: 400;
+}
