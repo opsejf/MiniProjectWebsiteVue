@@ -9,7 +9,6 @@ function LocationDropdown() {
 
   const handleClick = () => {
     setShowComponent(true)
-
   }
   
 
@@ -25,7 +24,10 @@ function LocationDropdown() {
         </form>
       </section>
         : <section className='locations-container'>
-          <h1 className='location-over-h1'>CHOOSE YOUR VIEW</h1>
+          <h1 className='location-over-h1'>CHOOSE YOUR VUE</h1>
+          <p>Browse VUE A-Z</p>
+          <h3>Locations</h3>
+          <LocationOver/>
         </section>        
         }
     </>

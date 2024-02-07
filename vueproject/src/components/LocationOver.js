@@ -3,16 +3,13 @@ import locations from "../utils/locations-data.json"
 
 function LocationOver() {
     return (
-        <div className='locations-container'>
-            <select className='ld-dropdown' name='locations'>
+            <ul className='locations-list' name='locations'>
                 {locations.map((location, index) => {
                     return (
-                        <option className='option' key={index}>{location.location}</option>
+                        <li className='option' key={index}>{location.location}</li>
                     )
                 })}
-            </select>
-        </div>
-
+            </ul>
     )
 }
 
