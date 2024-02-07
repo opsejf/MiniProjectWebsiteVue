@@ -35,7 +35,7 @@ function Homepage() {
       
       {/* <div className='quickbookbar'><p>footer</p></div> */}
       {/* {console.log(width)} */}
-        <LocationDropdown/>
+      
 
       <Navbar />
           
