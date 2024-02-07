@@ -8,10 +8,13 @@
     /* position: relative; */
     margin: 0 auto;
     padding: 0;
+    vertical-align: middle;
+
 }
 
 .navItem ul{
     margin: 0;
+    vertical-align: middle;
 }
 
 .navItem li{
@@ -19,21 +22,93 @@
     margin-right: 2%;
     margin-top: 1%;
     margin-bottom: 1% */
-    margin: 1%;
+    margin: 2%;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
 }
 
 #lastNav {
-    margin-right: 10%;
+    margin-left: 10%;
 }
 
 #firstNav {
-    margin-left: 3%;
+    margin-left: 0%;
     padding-left: 0%;
-    margin-right: 0;
-    padding: 0%;
+    margin-right: 5%;
 }
 
 #logo {
     margin: 0;
-    width: 10em;
+    width: 7em;
+}
+
+#accounticon {
+    margin: 0;
+    width: 2em;
+}
+
+@media screen and (max-width: 1600px){
+    .navItem li{
+        margin: 0.8%;
+    }
+
+    #firstNav {
+        margin-left: 1%;
+    }
+
+    #lastLastNav {
+        margin-right: 1%;
+    }
+
+    #lastNav {
+        margin-left: 5%;
+    }
+
+}
+
+@media screen and (max-width: 1100px) {
+    #hiddenNav {
+        display: none;
+    }
+
+    .navItem {
+        /* margin: */
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+
+        margin: 0 auto;
+        padding: 0;
+        vertical-align: middle;
+    }
+
+    
+
+    .NavItem ul {
+        margin: 0;
+        padding: 0;
+
+
+        margin: 0;
+        vertical-align: middle;
+    }
+
+    .firstNav {}
+
+    #lastNav {
+        margin-left: 55%;
+    }
+
+    /* #join {
+        margin-right: 2em;
+    }
+
+    #lastLastNav {
+        margin-right: 2%;
+    }  */
+
+    
 }
