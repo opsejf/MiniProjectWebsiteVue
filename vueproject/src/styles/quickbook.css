@@ -8,3 +8,17 @@
     color: white;
     text-align: center;
  }
+
+ /* Large quickbook bar */
+ @media screen and (min-width:500px), (max-width:1700px){
+    .quickbookbar{
+        background: blue;
+    }
+}
+
+/* Small quickbook bar */
+@media screen and (max-width:500px){
+    .quickbookbar{
+        background: orange;
+    }
+}
