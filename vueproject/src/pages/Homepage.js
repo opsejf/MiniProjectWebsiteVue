@@ -5,8 +5,8 @@ import Navbar from '../components/Navbar.js'
 function Homepage() {
   return (
     <div>
-        <LocationDropdown/>
       <Navbar />
+      <LocationDropdown/>
 
     </div>
   )
