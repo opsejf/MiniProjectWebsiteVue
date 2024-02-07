@@ -15,8 +15,256 @@
             "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
             "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
             "rating": "12A"
+        },
+        "Mean Girls" : {
+            "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+            "run-time" : "1hr 52mins",
+            "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+            "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+            "rating": "12A"
+        },
+        "Anyone But You" : {
+            "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+            "run-time": "1hr 43mins",
+            "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+            "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+            "rating" : "15" 
         }
-        } 
-    ] 
+        }
+        
+    ]},
+    {
+    "location" : "Accrington",
+    "movies-available" : [{
+        "Migration" : {
+            "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+            "run-time": "1h 30 mins",
+            "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+            "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+            "rating": "U"
+        }
+    ,"ARGYLLE" : {
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+        "run-time": "2hr 19mins",
+        "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "12A"
+    },
+    "Mean Girls" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+        "run-time" : "1hr 52mins",
+        "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+        "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "12A"
+    },
+    "Anyone But You" : {
+        "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+        "run-time": "1hr 43mins",
+        "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating" : "15" 
     }
+    } 
+]},
+{
+"location" : "Altrincham",
+"movies-available" : [{
+    "Migration" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "run-time": "1h 30 mins",
+        "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "U"
+    }
+,"ARGYLLE" : {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+    "run-time": "2hr 19mins",
+    "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Mean Girls" : {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+    "run-time" : "1hr 52mins",
+    "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+    "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Anyone But You" : {
+    "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+    "run-time": "1hr 43mins",
+    "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating" : "15" 
+}
+}
+]},
+{
+"location" : "Barrow",
+"movies-available" : [{
+    "Migration" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "run-time": "1h 30 mins",
+        "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "U"
+    }
+,"ARGYLLE" : {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+    "run-time": "2hr 19mins",
+    "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Mean Girls" : {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+    "run-time" : "1hr 52mins",
+    "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+    "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Anyone But You" : {
+    "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+    "run-time": "1hr 43mins",
+    "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating" : "15" 
+}
+}
+
+]},
+{
+"location" : "Bicester",
+"movies-available" : [{
+    "Migration" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "run-time": "1h 30 mins",
+        "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "U"
+    }
+,"ARGYLLE" : {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+    "run-time": "2hr 19mins",
+    "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Mean Girls" : {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+    "run-time" : "1hr 52mins",
+    "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+    "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Anyone But You" : {
+    "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+    "run-time": "1hr 43mins",
+    "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating" : "15" 
+}
+}
+
+]},
+{
+"location" : "Bromley",
+"movies-available" : [{
+    "Migration" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "run-time": "1h 30 mins",
+        "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "U"
+    }
+,"ARGYLLE" : {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+    "run-time": "2hr 19mins",
+    "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Mean Girls" : {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+    "run-time" : "1hr 52mins",
+    "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+    "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Anyone But You" : {
+    "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+    "run-time": "1hr 43mins",
+    "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating" : "15" 
+}
+}
+]},
+{
+"location" : "Dagenham",
+"movies-available" : [{
+    "Migration" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "run-time": "1h 30 mins",
+        "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "U"
+    }
+,"ARGYLLE" : {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+    "run-time": "2hr 19mins",
+    "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Mean Girls" : {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+    "run-time" : "1hr 52mins",
+    "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+    "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Anyone But You" : {
+    "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+    "run-time": "1hr 43mins",
+    "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating" : "15" 
+}
+}
+
+]},
+{
+"location" : "Doncaster",
+"movies-available" : [{
+    "Migration" : {
+        "img" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Migration_%282023_film%29.jpg",
+        "run-time": "1h 30 mins",
+        "starring": "Elizabeth Banks, Danny DeVito, Keegan-Michael Key, Kumail Nanjiani, Awkwafina",
+        "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+        "rating": "U"
+    }
+,"ARGYLLE" : {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg",
+    "run-time": "2hr 19mins",
+    "starring": "Bryce Dallas Howard, Bryan Cranston, Henry Cavill, Sam Rockwell, Samuel L. Jackson",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Mean Girls" : {
+    "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Mean_Girls_2_DVD_Cover.png/220px-Mean_Girls_2_DVD_Cover.png",
+    "run-time" : "1hr 52mins",
+    "starring": "Tina Fey, Jon Hamm, Reneé Rapp, Jaquel Spivey, Bebe Wood, Avantika",
+    "film-times" : ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating": "12A"
+},
+"Anyone But You" : {
+    "img" : "https://www.myvue.com/-/jssmedia/vuecinemas/film-and-events/nov-2023/f98db126-5279-4b0d-b448-8d89e12a6601.jpg?mw=450&rev=cb8653c1c5a649c8bb42ff7b80a41619",
+    "run-time": "1hr 43mins",
+    "starring": "Alexandra Shipp, Rachel Griffiths, Dermot Mulroney, Glen Powell, Sydney Sweeney",
+    "film-times": ["5:40pm - 7:40pm", "8:00pm - 10:00pm", "10:30pm - 12:30pm"],
+    "rating" : "15" 
+}
+}
+]}
 ]
